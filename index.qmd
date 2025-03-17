@@ -1,11 +1,15 @@
 ---
-title: "portfolio"
+title: "Portfolio"
 ---
 
-This is a Quarto website.
+# Sobre Mim  
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![Minha Foto](https://github.com/rickyz-120/portfolio/blob/main/Imagem%20do%20WhatsApp%20de%202024-08-14%20%C3%A0(s)%2014.04.18_38790834.jpg)  
 
-```{r}
-1 + 1
-```
+Olá! Meu nome é [Seu Nome] e sou Analista de BI no **GRUPO SOMA**. Sou apaixonado por **Ciência de Dados** e adoro resolver problemas usando dados para gerar insights valiosos.  
+
+Minha jornada começou com um interesse profundo por tecnologia e análise de informações. Ao longo dos anos, desenvolvi habilidades em **visualização de dados, modelagem preditiva e automação de processos**, sempre buscando formas inovadoras de transformar dados em decisões estratégicas.  
+
+Sou um entusiasta de **aprendizado contínuo**, trabalho bem em equipe e acredito que compartilhar conhecimento é essencial para o crescimento de todos.  
+
+Aqui você encontrará projetos e estudos que refletem minha experiência e paixão pela área. Seja bem-vindo ao meu portfólio! 🚀  
