@@ -1,10 +1,38 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "index.html#habilidades",
+    "href": "index.html#habilidades",
     "title": "Portfolio",
-    "section": "",
-    "text": "Sobre Mim\n\n\n\nMinha Foto\n\n\nOlá! Meu nome é [Seu Nome] e sou Analista de BI no GRUPO SOMA. Sou apaixonado por Ciência de Dados e adoro resolver problemas usando dados para gerar insights valiosos.\nMinha jornada começou com um interesse profundo por tecnologia e análise de informações. Ao longo dos anos, desenvolvi habilidades em visualização de dados, modelagem preditiva e automação de processos, sempre buscando formas inovadoras de transformar dados em decisões estratégicas.\nSou um entusiasta de aprendizado contínuo, trabalho bem em equipe e acredito que compartilhar conhecimento é essencial para o crescimento de todos.\nAqui você encontrará projetos e estudos que refletem minha experiência e paixão pela área. Seja bem-vindo ao meu portfólio! 🚀"
+    "section": "Habilidades",
+    "text": "Habilidades\n\nPower BI\nPython\nSQL\nQlikSense"
+  },
+  {
+    "objectID": "index.html#experiência",
+    "href": "index.html#experiência",
+    "title": "Portfolio",
+    "section": "Experiência",
+    "text": "Experiência\n\nGrupo SOMA (2023 - presente)\nAnalista de Business Intelligence\n\nProficiência em Power BI\nSQL nível avançado\nQlikSense intermediário"
+  },
+  {
+    "objectID": "index.html#projetos",
+    "href": "index.html#projetos",
+    "title": "Portfolio",
+    "section": "Projetos",
+    "text": "Projetos\n\nProjeto 1\n\n\n\nProjeto 1\n\n\nDescrição do projeto 1 e sua função nele.\n\n\nProjeto 2\n\n\n\nProjeto 2\n\n\nDescrição do projeto 2 e sua função nele."
+  },
+  {
+    "objectID": "index.html#educação",
+    "href": "index.html#educação",
+    "title": "Portfolio",
+    "section": "Educação",
+    "text": "Educação\n\nCiência de Dados para Negócios, FAE , 2023 - presente"
+  },
+  {
+    "objectID": "index.html#contato",
+    "href": "index.html#contato",
+    "title": "Portfolio",
+    "section": "Contato",
+    "text": "Contato\n\nE-mail: rickyzstudy@gmail.com\nLinkedIn: Henrique Reis\nGitHub: Rickyzz_120"
   },
   {
     "objectID": "about.html",

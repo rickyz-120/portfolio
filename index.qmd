@@ -1,15 +1,52 @@
 ---
 title: "Portfolio"
+format: 
+  html:
+    css: styles.css
+    toc: true
+    toc-location: left
 ---
+![](rickz%20foto%20github.jpg){fig-align="center" width="300px"}
 
-# Sobre Mim  
+# Sobre mim
 
-![Minha Foto](https://github.com/rickyz-120/portfolio/blob/main/Imagem%20do%20WhatsApp%20de%202024-08-14%20%C3%A0(s)%2014.04.18_38790834.jpg)  
+Sou um profissional com experiência em Ciência de Dados.
+ Com 2 anos de experiência, sou especialista em Business Intelligence.
 
-Olá! Meu nome é [Seu Nome] e sou Analista de BI no **GRUPO SOMA**. Sou apaixonado por **Ciência de Dados** e adoro resolver problemas usando dados para gerar insights valiosos.  
+## Habilidades
 
-Minha jornada começou com um interesse profundo por tecnologia e análise de informações. Ao longo dos anos, desenvolvi habilidades em **visualização de dados, modelagem preditiva e automação de processos**, sempre buscando formas inovadoras de transformar dados em decisões estratégicas.  
+- Power BI
+- Python
+- SQL
+- QlikSense
 
-Sou um entusiasta de **aprendizado contínuo**, trabalho bem em equipe e acredito que compartilhar conhecimento é essencial para o crescimento de todos.  
+## Experiência
 
-Aqui você encontrará projetos e estudos que refletem minha experiência e paixão pela área. Seja bem-vindo ao meu portfólio! 🚀  
+### Grupo SOMA (2023 - presente)
+**Analista de Business Intelligence**
+
+- Proficiência em Power BI
+- SQL nível avançado
+- QlikSense intermediário
+
+## Projetos
+
+### Projeto 1
+![Projeto 1](/placeholder.svg?height=200&width=300)
+
+Descrição do projeto 1 e sua função nele.
+
+### Projeto 2
+![Projeto 2](/placeholder.svg?height=200&width=300)
+
+Descrição do projeto 2 e sua função nele.
+
+## Educação
+
+- **Ciência de Dados para Negócios**, FAE , 2023 - presente
+
+## Contato
+
+- E-mail: rickyzstudy@gmail.com
+- LinkedIn: [Henrique Reis](https://www.linkedin.com/in/henrique-reis-br/)
+- GitHub: [Rickyzz_120](https://github.com/rickyz-120)
